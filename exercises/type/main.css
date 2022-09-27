@@ -1,0 +1,18 @@
+body {
+	background: lightgray;
+	font-family: 'poppins', sans-serif;
+	font-weight: 700;
+}
+h1 {
+	font-size: 5vh;
+}
+.wrapper {
+	color: whitesmoke;
+
+}
+.heading {
+	color: darkgray;
+}
+.content {
+	font-weight: 400;
+}

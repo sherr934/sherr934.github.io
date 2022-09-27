@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  color: darkmagenta;
+  background: #ffdfdf;
+}
+
+.title {
+  font-family: cursive;
+  font-size: 30pt;
+}
+
+.subtitle {
+  font-family: trebuchet ms;
+  font-size: 15pt;
+}

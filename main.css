@@ -1,0 +1,34 @@
+body {
+  font-size: 40px;
+}
+
+.wrapper {
+  background-color: orange;
+  font-family: arial;
+  color: darkcyan;
+}
+
+.entries{
+  background-color: lightseagreen;
+  font-family: monospace;
+}
+
+.entry{
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+a {
+  color: black;
+
+}
+.subtitle{
+  font-family: cursive;
+  font-size: 15px;
+}

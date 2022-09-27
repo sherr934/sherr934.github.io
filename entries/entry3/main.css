@@ -1,0 +1,49 @@
+body {
+	text-align: left;
+	line-height: 0pt;
+}
+.title {
+	text-align: center;
+	font-family: 'poppins';
+	font-size: 40pt;
+}
+.subtitle {
+	text-align: center;
+	font-size: 12pt;
+	font-family: 'poppins';
+}
+.alike {
+	color: darkgray;
+	font-size: 60pt;
+	font-family: 'barriecito';
+}
+.recap {
+	color: dimgray;
+	font-size: 50pt;
+	font-family: 'staatliches';
+}
+.saint {
+	font-size: 70pt;
+	font-family: 'pinyon script';
+	color: lightgray;
+}
+.glory {
+	color: darkgray;
+	font-size: 60pt;
+	font-family: 'sigmar one';
+}
+.grate {
+	font-family: 'rubik dirt';
+	font-size: 70pt;
+	color: dimgray;
+}
+.admit {
+	font-size: 70pt;
+	color: dimgray;
+	font-family: 'raleway';
+}
+.brisk {
+	font-size: 70pt;
+	color: lightgray;
+	font-family: 'faster one';
+}
