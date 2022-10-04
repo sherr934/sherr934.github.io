@@ -1,3 +1,89 @@
 body {
-	background-color: orangered;
+	background-color: #6aaa64;
+	font-size: 100px;
+	font-family: 'poppins';
+	text-align: center;
+	letter-spacing: 60px;
+}
+.title {
+	font-size: 20px;
+	font-family: times;
+	text-align: left;
+	letter-spacing: 0px;
+}
+
+.date {
+	font-size: 24px;
+	font-family: courier;
+	text-align: left;
+	letter-spacing: 0px;
+}
+
+.soggy {
+	text-decoration: none;
+	color: black;
+}
+.soggy:hover {
+	color: dimgrey;
+}
+
+.usurp {
+	letter-spacing: 64px;
+	text-decoration: none;
+	color: black;
+}
+.usurp:hover {
+	background-color: #b59f3b;
+	letter-spacing: 70px;
+}
+
+.scald {
+	letter-spacing: 66px;
+	text-decoration: none;
+	color: black;
+}
+.scald:hover {
+	text-decoration: underline;
+}
+.scald:active {
+	color: #8bb887;
+}
+
+.scorn {
+	text-decoration: none;
+	color: black;
+	transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+.scorn:hover {
+  	color: white;
+}
+
+.leave {
+	text-decoration: none;
+	color: black;
+	letter-spacing: 74px;
+	transition: color .2s ease-out;
+}
+.leave:hover {
+	color: #b59f3b;
+	font-size: 80%;
+}
+
+.twine {
+	text-decoration: none;
+	color: black;
+	letter-spacing: 74px;
+}
+.twine:hover {
+	border-bottom: 5px dotted;
+}
+
+.sting {
+	text-decoration: none;
+	color: black;
+	letter-spacing: 74px;
+	cursor: none;
+}
+.sting:hover {
+	background-color: yellowgreen;
 }
