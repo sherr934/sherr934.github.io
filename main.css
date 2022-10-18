@@ -1,21 +1,23 @@
-body {
-  font-size: 40px;
-}
 
 .wrapper {
-  background-color: blue;
   font-family: arial;
   color: darkcyan;
 }
 
-.entries{
-  background-color: lightseagreen;
-  font-family: monospace;
-}
-
-.entry{
+.container{
+  font-family: poppins;
+  margin: 5px;
+  width: 400px;
   padding: 20px;
   text-align: center;
+  margin: 10px 40px;
+  font-size: 40px;
+  display: flex;
+  flex: row;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 h1 {
@@ -31,4 +33,8 @@ a {
 .subtitle{
   font-family: cursive;
   font-size: 15px;
+}
+
+.item1 {
+  background-color: grey;
 }
