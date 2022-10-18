@@ -1,40 +1,65 @@
 
 .wrapper {
+  font-family: verdana;
+  text-align: center;
+}
+
+.subtitle{
   font-family: arial;
-  color: darkcyan;
+  font-size: 20px;
+  text-align: center;
+}
+
+.command {
+  font-family: arial;
+  text-align: center;
+  font-size: 18px;
 }
 
 .container{
   font-family: poppins;
-  margin: 5px;
-  width: 400px;
-  padding: 20px;
-  text-align: center;
-  margin: 10px 40px;
   font-size: 40px;
   display: flex;
-  flex: row;
-  align-items: center;
-  justify-content: center;
-  justify-content: space-evenly;
   flex-wrap: wrap;
+  width: 550px;
+  justify-content: center;
 }
 
-h1 {
-  text-align: center;
-}
-h2 {
-  text-align: center;
-}
 a {
   color: black;
 
 }
-.subtitle{
-  font-family: cursive;
-  font-size: 15px;
-}
 
 .item1 {
   background-color: grey;
+}
+
+.item {
+  background-color: #6aaa64;
+  margin: 6px;
+  width: 90px;
+  height: 90px;
+  font-size: 20px;
+  color: #787c7e;
+  text-align: center;
+  transition: .3s;
+  justify-content: center;
+}
+
+.item:hover:after {
+  content: attr(data-hover);
+  letter-spacing: 5px;
+  line-height: 130px;
+  }
+
+.item:hover {
+  background-color: white;
+}
+
+.item12, .item13, .item14, .item2, .item15, .item17, .item3, .item18, .item4, .item19, .item6, .item21, .item7, .item24, .item26 {
+  background-color: #787c7e;
+}
+
+.item1, .item16, .item5, .item20, .item23 {
+  background-color: #c9b458;
 }
