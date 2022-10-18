@@ -1,3 +1,7 @@
+body {
+  margin: 70px;
+  padding: 360px;
+}
 
 .wrapper {
   font-family: verdana;
