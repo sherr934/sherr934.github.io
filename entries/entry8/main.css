@@ -1,11 +1,6 @@
 body {
 	background-color: #787c7e;
-}
-
-@media (max-width: 768px) {
-  body {
-    padding: 50px;
-  }
+	font-size: 100px;
 }
 
 .header {
@@ -32,7 +27,6 @@ body {
 	height: 16vh;
 	color: #787c7e;
 	background-color: white;
-	font-size: 100px;
 	text-decoration-line: none;
 	font-family: 'Josefin Sans', sans-serif;;
 	text-align: center;
